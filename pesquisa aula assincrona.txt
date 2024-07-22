@@ -1,8 +1,0 @@
-Orientação a objeto
-
-A Programação Orientada a Objetos (POO) em Python é um paradigma baseado no conceito de classes e objetos. Vamos explorar os principais conceitos:
-
-Classes: São tipos de dados definidos pelo desenvolvedor que atuam como modelos para objetos. Imagine classes como “formas de bolo”, e os bolos seriam os objetos1.
-Objetos: São instâncias de uma classe. Eles podem modelar entidades do mundo real (como Carro, Pessoa, Usuário) ou entidades abstratas (como Temperatura, Umidade, Medição, Configuração)1.
-Métodos: São funções definidas dentro de uma classe que descrevem os comportamentos de um objeto1.
-Atributos: São os campos de dados de um objeto (também chamados de propriedades)1.
